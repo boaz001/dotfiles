@@ -30,6 +30,6 @@ source ~/.bash/extras
 
 # z - jump to folders
 # https://github.com/rupa/z/raw/master/z.sh
-source ~/bin/z.sh
+# source ~/bin/z.sh
 
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
